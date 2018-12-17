@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=s\ k
+comment1.target=java.lang.String\ EncryptAdd(java.lang.String,\ int)
+comment2.params=s\ k
+comment2.target=java.lang.String\ EncryptSub(java.lang.String,\ int)
+numComments=3
